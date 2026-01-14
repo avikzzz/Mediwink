@@ -39,6 +39,8 @@ Follow the steps below to run the project on your local machine.
          * Table creation scripts
 
 
+
+
 2. Backend Setup (.NET Core)
 
 * Open the backend solution from the Mediwink folder using Visual Studio.
@@ -47,11 +49,16 @@ Follow the steps below to run the project on your local machine.
 * Run the project using Visual Studio.
 The backend API will start running locally.
 
+
+
 3. Frontend Setup (React)
    
 * Open the Mediwink_App folder in Visual Studio Code.
 * npm install
 * npm run dev
+
+This will run the full application in the localhost.
+
 
 
 Important Notes :
