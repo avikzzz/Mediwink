@@ -30,11 +30,11 @@ Follow the steps below to run the project on your local machine.
 
 1. Database Setup
 
-1. The project uses SQL Server as the database.
-2. Open SQL Server Management Studio (SSMS).
-3. Connect to your SQL Server instance.
-4. Navigate to the Mediwink_Database folder.
-5. Execute the provided SQL scripts:
+* The project uses SQL Server as the database.
+* Open SQL Server Management Studio (SSMS).
+* Connect to your SQL Server instance.
+* Navigate to the Mediwink_Database folder.
+* Execute the provided SQL scripts:
          * Database creation script
          * Table creation scripts
 
