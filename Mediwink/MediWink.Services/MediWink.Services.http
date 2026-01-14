@@ -1,0 +1,6 @@
+@MediWink.Services_HostAddress = http://localhost:5126
+
+GET {{MediWink.Services_HostAddress}}/
+Accept: application/json
+
+###
